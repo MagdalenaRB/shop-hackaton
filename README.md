@@ -1,1 +1,3 @@
 # shop-hackaton
+
+📝Project description:
